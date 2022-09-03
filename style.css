@@ -4,7 +4,7 @@
     text-align: center;
     background-color: gray;
     border: black solid 2px;
-    margin: 10px;
+    margin: 0px;
 }
 .articulo{
     display: grid;
@@ -20,6 +20,7 @@
     margin: 10px;
     padding: 10px;
 }
+
 .footer{
     background-color: aqua;
     border: black solid 2px;
@@ -28,4 +29,23 @@
     justify-content: center;
     align-items: center;
     font-size: 25px;
+
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    height: 40px;
+    margin: 0px;
+    align-items: center;
+    border: 2px solid black;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    border: solid black 2px;
+    padding: 5px;
+    border-radius: 10px;
+
 }
