@@ -21,6 +21,16 @@
     padding: 10px;
 }
 
+.footer{
+    background-color: aqua;
+    border: black solid 2px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+
+
 ul{
     list-style: none;
     display: flex;
@@ -37,4 +47,5 @@ li a{
     border: solid black 2px;
     padding: 5px;
     border-radius: 10px;
+
 }
