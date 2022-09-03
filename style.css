@@ -20,3 +20,12 @@
     margin: 10px;
     padding: 10px;
 }
+.footer{
+    background-color: aqua;
+    border: black solid 2px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
